@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Adrienne!
-⚡Anylitics Engineer⚡
+⚡I use R, SQL, JS, Python & more to build things.⚡
 
 
 <!--
