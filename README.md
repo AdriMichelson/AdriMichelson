@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Adrienne!
-- ✨Currently Data Director at Vet Voice Foundation ✨
 - ⚡I use R, SQL, JS, PHP, and Python & more to build things.⚡
-- 🌱 I’m currently learning Ruby/RoR. 
+- 🌱 I’m currently learning a bunch of infra tools!
 - 😄 Pronouns: She/Her/Hers
 
 <!--
